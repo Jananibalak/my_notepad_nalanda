@@ -1,0 +1,21 @@
+0069397268 
+dbFvhuOx
+
+C:\Data\eclipse-kepler_x86_64\jdk1.7.0_60\db\bin
+
+C:\>netstat -o -n -a | findstr 0.0:8080
+  TCP    0.0.0.0:8080           0.0.0.0:0              LIS
+
+C:\>taskkill /F /PID 11988
+SUCCESS: The process with PID 11988 has been terminated.
+
+path = c:\users\XBBNHBG\AppData\roaming\npm;c:\program files\nodejs;c:\program files\git; c:\users\XBBNHBG\AppData\roaming\npm \node_modules\bower\bin;%path%
+
+export HTTP_PROXY=http://proxy.pershing.com:8080
+export HTTPS_PROXY=http://proxy.pershing.com:8080 
+
+set JAVA_HOME = C:\Data\eclipse-kepler_x86_64\jdk1.7.0_60
+
+set PATH=C:\Program Files\nodejs;C:\Program Files\Git\bin;C:\Users\XBBNHBG\AppData\Roaming\npm;C:\Users\XBBNHBG\AppData\Roaming\npm\node_modules;%PATH%;C:\Data\apache-maven-3.0.4\bin;
+
+SET MAVEN_HOME = C:\Data\apache-maven-3.0.4;
